@@ -8,8 +8,7 @@ WinClose, www.realmofthemadgod.com/version.txt
 Sleep 25
 NewRotmg = http://www.realmofthemadgod.com/AGCLoader%ClipBoard%.swf
 Sleep 25
-Run C:\Users\Dylan\Desktop\Flash.exe
-WinWait, Adobe, , 3
+Run FlashProjectorLocation
 WinActivate Adobe
 Send ^o
 Sleep 50
